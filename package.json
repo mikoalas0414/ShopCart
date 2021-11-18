@@ -1,5 +1,5 @@
 {
-  "name": "criando_um_hook_de_carrinho_de_compras",
+  "name": "creating_hook_shopping_cart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server server.json -p 3333"
+    "server": "json-server ./src/server.json -p 3333"
   },
   "browserslist": {
     "production": [
